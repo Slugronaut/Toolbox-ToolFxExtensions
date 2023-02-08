@@ -1,0 +1,35 @@
+{
+  "name": "com.postegames.toolfxextensions",
+  "version": "1.0.0",
+  "displayName": "PEGLIB - Tool FX Extensions",
+  "description": "Additional features built on top of the ToolFx system.",
+  "unity": "2022.2",
+  "dependencies": {
+    "com.postegames.advancedbehaviours": "",
+    "com.postegames.autonomousentities": "",
+    "com.postegames.collections": "",
+    "com.postegames.damagesystem": "",
+    "com.postegames.eventbehaviourframework": "",
+    "com.postegames.gameplaysystems": "",
+    "com.postegames.gcci": "",
+    "com.postegames.graphicstools": "",
+    "com.postegames.hashedstring": "",
+    "com.postegames.lazarus": "",
+    "com.postegames.mathutils": "",
+    "com.postegames.messagebehaviourframework": "",
+    "com.postegames.messagedispatcher": "",
+    "com.postegames.toolboxcorelib": "",
+    "com.postegames.toolfx": "",
+    "com.postegames.typehelper": "",
+    "com.postegames.unityextensions": ""
+  },
+  "keywords": [
+    "extension",
+    "toolfx"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  }
+}
