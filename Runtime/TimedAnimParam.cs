@@ -1,8 +1,8 @@
-﻿using Toolbox;
-using Toolbox.Behaviours;
+﻿using Peg;
+using Peg.Behaviours;
 using UnityEngine;
 using Sirenix.OdinInspector;
-using Toolbox.Graphics;
+using Peg.Graphics;
 
 namespace ToolFx
 {

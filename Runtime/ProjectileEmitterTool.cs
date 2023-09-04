@@ -2,11 +2,11 @@
 using Sirenix.OdinInspector;
 using System;
 using System.Collections.Generic;
-using Toolbox;
-using Toolbox.Lazarus;
-using Toolbox.Math;
+using Peg;
+using Peg.Lazarus;
 using UnityEngine;
 using Random = UnityEngine.Random;
+using Peg.Lib;
 
 namespace ToolFx
 {
@@ -337,7 +337,7 @@ namespace ToolFx
         protected HashSet<Projectile> ActiveProjectileList(ITool tool)
         {
             //weapon might have gone away since this was fired 
-            if (Toolbox.TypeHelper.IsReferenceNull(tool)) return new HashSet<Projectile>();
+            if (Peg.TypeHelper.IsReferenceNull(tool)) return new HashSet<Projectile>();
             var v = tool.GetBlackboardVar(ProjList, new HashSet<Projectile>());
             return v.value;
         }

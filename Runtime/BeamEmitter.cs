@@ -1,9 +1,9 @@
 ﻿using DamageSystem;
 using System;
-using Toolbox;
-using Toolbox.Lazarus;
-using Toolbox.Math;
+using Peg;
+using Peg.Lazarus;
 using UnityEngine;
+using Peg.Lib;
 
 namespace ToolFx
 {

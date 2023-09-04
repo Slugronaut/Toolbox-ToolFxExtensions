@@ -84,7 +84,7 @@ namespace ToolFx
         /// <returns></returns>
         public override IEnumerator Routine(ITool tool)
         {
-            var wait = Toolbox.CoroutineWaitFactory.RequestWait(Cooldown);
+            var wait = Peg.CoroutineWaitFactory.RequestWait(Cooldown);
             float startTime = Time.time;
             var trans = tool.gameObject.transform;
             while(Time.time - startTime < EmitTime)

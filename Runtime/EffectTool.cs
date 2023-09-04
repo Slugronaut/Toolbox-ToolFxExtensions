@@ -1,13 +1,12 @@
 ﻿using Sirenix.OdinInspector;
-using Toolbox;
-using Toolbox.Behaviours;
-using Toolbox.Lazarus;
-using Toolbox.Math;
+using Peg;
+using Peg.Behaviours;
+using Peg.Lazarus;
 using UnityEngine;
-
+using Peg.Lib;
 
 namespace ToolFx
-{ 
+{
     /// <summary>
     /// 
     /// </summary>

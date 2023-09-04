@@ -1,6 +1,6 @@
 ﻿using System;
-using Toolbox;
-using Toolbox.Game;
+using Peg;
+using Peg.Game;
 using UnityEngine;
 
 namespace ToolFx

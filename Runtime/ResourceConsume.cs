@@ -1,9 +1,9 @@
 ﻿using Sirenix.OdinInspector;
 using System;
-using Toolbox;
-using Toolbox.Game;
+using Peg;
+using Peg.Game;
 using UnityEngine;
-using static Toolbox.Game.GlobalResourceResponder;
+using static Peg.Game.GlobalResourceResponder;
 using static ToolFx.ResourceCheck;
 
 
