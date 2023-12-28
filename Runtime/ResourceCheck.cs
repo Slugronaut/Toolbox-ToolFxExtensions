@@ -1,9 +1,9 @@
 ﻿using Sirenix.OdinInspector;
 using System;
 using Peg;
-using Peg.Game;
 using UnityEngine;
-using static Peg.Game.GlobalResourceResponder;
+using Peg.Game.ConsumableResource;
+using Peg.MessageDispatcher;
 
 namespace ToolFx
 {

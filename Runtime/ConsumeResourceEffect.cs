@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
-
+using Peg.Game.ConsumableResource;
+using Peg.AutonomousEntities;
 
 namespace ToolFx
 {

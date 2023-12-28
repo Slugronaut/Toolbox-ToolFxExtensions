@@ -1,5 +1,6 @@
 ﻿using Peg;
-using Peg.Game;
+using Peg.AutonomousEntities;
+using Peg.Game.ConsumableResource;
 using UnityEngine;
 
 

@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using Peg.AutonomousEntities;
 using Peg.Graphics;
 using UnityEngine;
 

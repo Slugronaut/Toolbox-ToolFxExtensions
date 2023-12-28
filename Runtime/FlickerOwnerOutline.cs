@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using Peg;
+using Peg.AutonomousEntities;
 using Peg.Graphics;
 using UnityEngine;
 

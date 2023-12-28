@@ -3,7 +3,7 @@ using Peg;
 using Peg.Behaviours;
 using Peg.Graphics;
 using UnityEngine;
-
+using Peg.AutonomousEntities;
 
 namespace ToolFx
 {

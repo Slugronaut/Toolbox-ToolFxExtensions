@@ -2,6 +2,7 @@
 using Peg.Graphics;
 using UnityEngine;
 using Sirenix.OdinInspector;
+using Peg.AutonomousEntities;
 
 namespace ToolFx
 {

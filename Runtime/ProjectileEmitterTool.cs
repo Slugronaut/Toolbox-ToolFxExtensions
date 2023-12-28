@@ -7,6 +7,7 @@ using Peg.Lazarus;
 using UnityEngine;
 using Random = UnityEngine.Random;
 using Peg.Lib;
+using Peg.AutonomousEntities;
 
 namespace ToolFx
 {

@@ -3,9 +3,9 @@ using System;
 using Peg;
 using Peg.Game;
 using UnityEngine;
-using static Peg.Game.GlobalResourceResponder;
 using static ToolFx.ResourceCheck;
-
+using Peg.Game.ConsumableResource;
+using Peg.MessageDispatcher;
 
 namespace ToolFx
 {
